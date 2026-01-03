@@ -1,0 +1,8 @@
+teste
+
+comandos git
+
+git status
+git add teste.txt
+git commit -m "Meu Primeiro commit"
+git push origin main teste.txt
